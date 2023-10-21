@@ -5,13 +5,13 @@
 */
 //Include the library files
 #define BLYNK_PRINT Serial
-#define BLYNK_TEMPLATE_ID "TMPL2Ij6Bbc4u"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME "Water Level"
 #include <ESP8266WiFi.h>  
 #include <BlynkSimpleEsp8266.h>
-char auth[] = "HLGtJCdElUcteWAmM-HFPip3WtgzXmLK";//Enter your Auth token
-char ssid[] = "HUAWEI_B535_77B6";//Enter your WIFI name
-char pass[] = "Rissie123";//Enter your WIFI password
+char auth[] = "";//Enter your Auth token
+char ssid[] = "";//Enter your WIFI name
+char pass[] = "";//Enter your WIFI password
 
 BlynkTimer timer;
 
